@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exFutebol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exFutebol_jar</output-path>
+    <root id="archive" name="exFutebol.jar">
+      <element id="module-output" name="exFutebol" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/Recursos/mysql-connector-java-5.1.47.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
